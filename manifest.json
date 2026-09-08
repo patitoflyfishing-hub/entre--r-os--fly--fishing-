@@ -1,0 +1,9 @@
+{
+  "name": "Entre Ríos Fly Fishing",
+  "short_name": "Entre Ríos",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f5f2e9",
+  "theme_color": "#123b2a",
+  "icons": []
+}
